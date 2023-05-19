@@ -1,7 +1,7 @@
 # Digitising Hohfeld
 Code for the paper:
-Izzidien, A. Using the Interest Theory of Rights and Hohfeldian Taxonomy to Address a Gap in Machine Learning Methods for Legal Document Analysis.  
-Humanities and Social Sciences Communications.
+
+Izzidien, A. Using the interest theory of rights and Hohfeldian taxonomy to address a gap in machine learning methods for legal document analysis. Humanit Soc Sci Commun 10, 251 (2023). https://doi.org/10.1057/s41599-023-01693-z
 
 Link to article https://www.nature.com/articles/s41599-023-01693-z
 
